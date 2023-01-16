@@ -12,5 +12,5 @@ Project Portfolio
 * Validated clustering model by constructing histograms of conductance data withheld from the model and comparing with independent data
 * Analysis was part of a high-impact peer-reviewed research paper and featured as the [**BACK COVER ARTICLE**](https://onlinelibrary.wiley.com/doi/10.1002/anie.202106779)
 
-![](/Images/kmeans_project_overview_image.png)
+![](/Images/kmeans_project_overview_image.PNG)
   
