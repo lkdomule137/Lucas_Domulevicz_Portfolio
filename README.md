@@ -1,7 +1,20 @@
 # [Lucas Domulevicz, Ph.D. Project Portfolio](https://lkdomule137.github.io/Lucas_Domulevicz_Portfolio/)
 Project Portfolio
 
-## [Project 1: Identifying Single-Molecule Spectroscopic Signals](https://github.com/lkdomule137/kmeans_clustering_of_spectroscopic_data)
+## [Project 1: Classification of Amino Acids with a Deep Neural Network](https://github.com/lkdomule137/neural_network_classification_of_amino_acids)
+### Overview:
+
+### Highlights:
+* Utilized TensorFlow and Sci-kit Learn in Python to build and optimize a deep neural network to classify 6 distinct amino acids based on spectroscopic and electrical data.
+* Conducted exploratory data analysis in Python using Pandas, Matplotlib, and Seaborn to visual the data behavior in both the spectral and electrical domains
+* Performed feature engineering and constructed a data processing pipeline on an imbalanced data containing ~1,000 features, to improve model performance.
+* The optimized model resulted in a balanced accuracy of ~72% on the test data set
+
+![](/Images/neural_network_classification_of_amino_acids.PNG)
+
+
+
+## [Project 2: Identifying Single-Molecule Spectroscopic Signals](https://github.com/lkdomule137/kmeans_clustering_of_spectroscopic_data)
 ### Overview:
 
 
