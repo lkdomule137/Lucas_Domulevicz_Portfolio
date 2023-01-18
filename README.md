@@ -7,7 +7,7 @@ Project Portfolio
 ### Highlights:
 * Utilized TensorFlow and Sci-kit Learn in Python to build and optimize a deep neural network to classify 6 distinct amino acids based on spectroscopic and electrical data.
 * Conducted exploratory data analysis in Python using Pandas, Matplotlib, and Seaborn to visual the data behavior in both the spectral and electrical domains
-* Performed feature engineering and constructed a data processing pipeline on an imbalanced data containing ~1,000 features, to improve model performance.
+* Performed feature engineering and constructed a data processing pipeline on an imbalanced data set containing ~1,000 features, to improve model performance.
 * The optimized model resulted in a balanced accuracy of ~72% on the test data set
 
 ![](/Images/neural_network_classification_of_amino_acids.PNG)
