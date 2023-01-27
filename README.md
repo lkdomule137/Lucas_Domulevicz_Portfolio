@@ -19,7 +19,7 @@ and electrical domains.
 improve model performance.
 * The optimized model resulted in a balanced accuracy of ~72% on the test data set.
 
-*Thorough discussion of project provided in repository along with data and model of neural network. Jupyter notebook available upon request.*
+*Raw data and neural network models can be found in the project repository. A Jupyter notebook containing a complete analysis is available upon request.*
 ![](/Images/neural_network_classification_of_amino_acids.PNG)
 
 
