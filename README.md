@@ -10,14 +10,6 @@ in academia and for my own personal interests.
 * Data Visualization and Illustration: Origin, Matplotlib, seaborn, MS PowerPoint, and GIMP
 
 ## [Project 1: Classification of Amino Acids with a Deep Neural Network](https://github.com/lkdomule137/neural_network_classification_of_amino_acids)
-### Overview:
-Amino acids are one of the fundamental building blocks of life. When combined, they form sequences which fold based on their composition
-and environment to form proteins. Proteins are mediate an unimmaginable amount of biological processes due to infinite number of possible sequences
-that can be formed from their constituent amino acids. Thus, it is highly desirable to be able to sequence and study proteins precisely. Unlike DNA which consists
-of 4 fundamental base molecules and can be readily sequenced, isolating proteins in significant abundance is more challenging and are formed from combinations of
-23 amino acids which also possess subtle variations making sequencing proteins difficult. This project shows that it is possible to identify single amino acids
-based using the Raman spectrum and conductance measured from a single molecule with the assistance of deep learning models.
-
 ### Highlights:
 * Utilized TensorFlow and scikit-learn in Python to build and optimize a deep neural network to classify 6 distinct amino acids based on 
 spectroscopic and electrical data.
@@ -33,7 +25,7 @@ improve model performance.
 
 ## [Project 2: Identifying Single-Molecule Spectroscopic Signals](https://github.com/lkdomule137/kmeans_clustering_of_spectroscopic_data)
 ### Overview: 
-Raman spectroscopy is an optical tool that allows for the "fingerprinting" of molecular systems. Due to recent advances it has become
+Raman spectroscopy is a tool that allows for the "fingerprinting" of molecular systems. Due to recent advances it has become
 one of the most useful tools for chemianalysis with the prospect of detecting signals from a single molecule. One prominent issue is
 separating the signal originating from a single molecule from the background containing potentially trillions of molecules. This project
 addresses this issue by utilizing unsupervised machine learning algorithms, namely K-means clustering, to separate these two signals and
