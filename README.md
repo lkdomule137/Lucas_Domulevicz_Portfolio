@@ -25,8 +25,8 @@ improve model performance.
 
 ## [Project 2: Identifying Single-Molecule Spectroscopic Signals](https://github.com/lkdomule137/kmeans_clustering_of_spectroscopic_data)
 ### Overview: 
-Raman spectroscopy is a tool that allows for the "fingerprinting" of molecular systems. Due to recent advances it has become
-one of the most useful tools for chemianalysis with the prospect of detecting signals from a single molecule. One prominent issue is
+Raman spectroscopy is a tool that allows for the "fingerprinting" of molecular systems. Due to recent advances, it has become
+one of the most useful tools for chemical analysis with the prospect of detecting signals from a single molecule. One prominent issue is
 separating the signal originating from a single molecule from the background containing potentially trillions of molecules. This project
 addresses this issue by utilizing unsupervised machine learning algorithms, namely K-means clustering, to separate these two signals and
 explore differences in their representative spectral "fingerprint."  
