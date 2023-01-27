@@ -45,9 +45,10 @@ independent data.
 
 
 ## [Project 3: Simulating Electron Transmission and Current Flow in Molecular Wires](https://github.com/lkdomule137/molecular_wire_transmission_simulator)
-### Overview: Molecules represent the fundamental limit of device scalability for nano electronics and understanding their conductive
-properties from a theoretical perspective is necessary for their successful implementation as viable commercial electronics. This project
-utilizes the output from commercial software for performing quantum mechanical simmulations of molecular systems to simulate electrical and thermal
+### Overview: 
+Molecules represent the fundamental limit of device scalability for nano electronics and understanding their conductive properties 
+from a theoretical perspective is necessary for their successful implementation as viable commercial electronics. This project utilizes 
+the output from commercial software for performing quantum mechanical simmulations of molecular systems to simulate electrical and thermal
 properties of single-molecule electronic devices.
 
 ### Highlights:
