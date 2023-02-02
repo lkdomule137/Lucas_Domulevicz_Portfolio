@@ -1,7 +1,7 @@
 # Lucas Domulevicz, Ph.D. Project Portfolio
 I'm an Electrical Engineer and Physics professional with over 8 years of experience performing cutting edge research. Much of the work 
 I have done involves leveraging methods in data science, machine learning, and deep neural networks to interpret complex data sets in the
-fields of nano-electronics and nano-photonics. Below you'll find samples of some of the projects I've been involved in over the years 
+fields of nano-electronics, nano-photonics, and chemical analysis. Below you'll find samples of some of the projects I've been involved in over the years 
 in academia and for my own personal interests.
 
 ### Programming Languages and Software:
@@ -17,7 +17,7 @@ spectroscopic and electrical data.
 and electrical domains.
 * Performed feature engineering and constructed a data processing pipeline on an imbalanced data set containing ~1,000 features, to 
 improve model performance.
-* The optimized model resulted in a balanced accuracy of ~72% on the test data set.
+* Extracted feature importance from a set of random forest binary classifiers, in R, for each species to assist in the interpretability of the data set.
 
 *Raw data and neural network models can be found in the project repository. A Jupyter notebook containing a complete analysis is available upon request.*
 ![](/Images/neural_network_classification_of_amino_acids.PNG)
